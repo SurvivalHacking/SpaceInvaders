@@ -1,7 +1,7 @@
 Space Invaders KIT based on Elecrow's ESP-PLAY / KIT di Space Invaders basato ull'ESP-PLAY della Elecrow  
 
+![IMG_3316](https://github.com/user-attachments/assets/4a1056b5-5813-400d-8207-bc25fc3a6e33)
 
-![IMG316](https://github.com/user-attachments/assets/a9921b5e-aa40-4a0b-ac62-cd4083a41289)
 
 In the related video, I take you through the process of building a mini portable console from a kit. The author's original idea was to create a device capable of running a small, very limited NES emulator, but I decided to customize it and give it a unique character. I designed and built an enclosure inspired by Space Invaders, with a design reminiscent of the famous arcade game, and I didn't stop at aesthetics: with the help of Salvatore (MatixVision), I developed open source code for the Space Invaders game, transforming the console into something that is not just an emulator, but a small personal experience of retro-gaming and creativity.  
 
