@@ -22,3 +22,5 @@ Nel video correlato vi porto nel processo di costruzione di una mini console por
 
 🌎 PlatformIO install: https://platformio.org/install
 
+https://youtu.be/pA6Zh9SjXRo
+
