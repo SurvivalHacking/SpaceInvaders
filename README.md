@@ -22,5 +22,7 @@ Nel video correlato vi porto nel processo di costruzione di una mini console por
 
 🌎 PlatformIO install: https://platformio.org/install
 
+
+![EPXX-esp play](https://github.com/user-attachments/assets/94826c7d-dec0-42c4-b947-61dc892e8975)
 https://youtu.be/pA6Zh9SjXRo
 
