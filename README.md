@@ -1,7 +1,7 @@
 # Space Invaders KIT based on Elecrow's ESP-PLAY / KIT di Space Invaders basato ull'ESP-PLAY della Elecrow  
 
 ![IMG_3316](https://github.com/user-attachments/assets/4a1056b5-5813-400d-8207-bc25fc3a6e33)
-
+![EPXX-esp play](https://github.com/user-attachments/assets/94826c7d-dec0-42c4-b947-61dc892e8975)
 
 ## 📘 Description / Descrizione
 
@@ -26,8 +26,6 @@ https://youtu.be/pA6Zh9SjXRo
 * Hackady ESP-PLAY project: https://hackaday.io/project/193584-play-esp-diy-kit#menu-instructions
 * VSCode: https://code.visualstudio.com/
 * PlatformIO install: https://platformio.org/install
-
-![EPXX-esp play](https://github.com/user-attachments/assets/94826c7d-dec0-42c4-b947-61dc892e8975)
 
 ---
 # 📝 Revisioni
